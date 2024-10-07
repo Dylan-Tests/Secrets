@@ -1,1 +1,1 @@
-fullstory_api_secret = "na1.by0yMUdUQTUtbmExL2R5bGFueWFpckBnbWFpbC5jb2069YVPNuegUOJy5f2SEmAEgYJnHvWTX2ybGNdbSMchT3ou/YSZP8MY"
+password = "pk.eyJ1IjoiaGlqaWFuZ3RhbyIsImEiOiJjampxcjFnb3E2NTB5M3BvM253ZHV5YjhjIn0.WneUon5qFigfJRJ3oaZ3Ow"
