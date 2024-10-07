@@ -1,3 +1,3 @@
 mapbox_access_token = "pk.eyJ1IjoiaGlqaWFuZ3RhbyIsImEiOiJjampxcjFnb3E2NTB5M3253ZHV5YjhjIn0.WneUon5qFigfJRJ3oaZ3Ow"
 mapbox_access_token2 = "tk.eyJ1IjoiaGlqaWFuZ3RhbyIsImEiOiJjampxcjFnb3E2NTB5M3BvM253ZHV5YjhjIn0.WneUon5qFigfJRJ3oaZ3Ow"
-mapbox_access_token3 = "sk.eyJ1IjoiaGlqaWFuZ3RhbyIsImEiOiJjampxcjFnb3ETB5M3BvM253ZHV5YjhjIn0.WneUon5qFigfJRJ3oaZ3Ow"
+mapbox_access_token3 = "pk.eyJ1IjoieHdwaXNtZSIsImEiOiJ5cTlCQTlRIn0.QdV-wNUKbgs7jAlbVE747Q"
