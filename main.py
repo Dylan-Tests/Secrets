@@ -1,6 +1,2 @@
-snowflake.jdbc.password = "B95267B8-7667-4505-94B0-945afa0469da"
-password = "B95267B8-7667-4505-94B0-945afa0469da"
 vercel-token = "sp0Jjdbr8qgwVrlM00FDxHDE"
-password = "sp0Jjdbr8qgwVrlM00FDxHDE"
-password2 = "sp0Jjdbr8qgwVrlM00FDxHDE"
-password3 = "sp0Jjdbr8qgwVrlM00FDxHDE"
+passwordd = "sp0Jjdbr8qgwVrlM00FDxHDE"
