@@ -1,1 +1,1 @@
-secret = 123 
+secret = 123 fg
