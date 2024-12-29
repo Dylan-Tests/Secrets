@@ -1,1 +1,1 @@
-test
+secret = 123
