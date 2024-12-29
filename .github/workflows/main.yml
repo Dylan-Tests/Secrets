@@ -1,28 +1,26 @@
-name: Check PR Files for Secrets
+name: Check PR for "secret"
 
 on:
   pull_request:
-    types: [opened, synchronize, reopened]
+    types: [opened, synchronize]
 
 jobs:
-  check-files:
+  check-secrets:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout PR branch
-        uses: actions/checkout@v3
-      
-      - name: Check for "secret" in PR changes
-        run: |
-          echo "Checking for the word 'secret' in files changed in the PR..."
-          # Get a list of changed files
-          git diff --name-only origin/${{ github.base_ref }} > changed_files.txt
-          
-          # Check the content of changed files for the word "secret"
-          grep -i "secret" $(cat changed_files.txt) && FOUND="true" || FOUND="false"
-          
-          if [ "$FOUND" = "true" ]; then
-            echo "Error: The word 'secret' was found in the changed files."
-            exit 1
-          else
-            echo "No occurrences of 'secret' found in the changed files."
-          fi
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python environment
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: pip install requests PyGithub
+
+      - name: Run script to check for "secret"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/actions/check_secrets.py
