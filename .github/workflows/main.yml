@@ -8,22 +8,27 @@ jobs:
   check-files:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout PR branch and base branch
+      - name: Checkout PR branch and fetch all branches
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Fetch all history to ensure we have the base branch
+          fetch-depth: 0  # Fetch all history for proper diffing
 
       - name: Fetch base branch
         run: |
-          git fetch origin ${{ github.base_ref }}
+          # Fetch the base branch (e.g., main) explicitly
+          git fetch origin ${{ github.base_ref }}:${{ github.base_ref }}
 
       - name: Check for "secret" in PR changes
         run: |
           echo "Checking for the word 'secret' in files changed in the PR..."
           
           # Get a list of changed files
-          git diff --name-only origin/${{ github.base_ref }} > changed_files.txt
-
+          git diff --name-only ${{ github.base_ref }} > changed_files.txt
+          
+          # Display the list of changed files for debugging
+          echo "Changed files:"
+          cat changed_files.txt
+          
           # Check the content of changed files for the word "secret"
           if grep -i "secret" $(cat changed_files.txt); then
             echo "Error: The word 'secret' was found in the changed files."
