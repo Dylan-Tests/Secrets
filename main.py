@@ -1,1 +1,1 @@
-test
+secreet = 123
