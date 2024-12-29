@@ -9,18 +9,28 @@ def main():
         print("GITHUB_TOKEN is not set")
         sys.exit(1)
 
-    # Get the GitHub repository and pull request info from environment variables
+    # Get the repository name from the environment
     repo_name = os.getenv("GITHUB_REPOSITORY")
     if not repo_name:
         print("GITHUB_REPOSITORY is not set")
         sys.exit(1)
 
-    pr_number = os.getenv("GITHUB_REF").split("/")[-1]
-    if not pr_number.isdigit():
-        print("Invalid pull request number")
+    # Get the pull request number from the environment
+    event_path = os.getenv("GITHUB_EVENT_PATH")
+    if not event_path or not os.path.exists(event_path):
+        print("GITHUB_EVENT_PATH is not set or the file doesn't exist.")
         sys.exit(1)
 
-    pr_number = int(pr_number)
+    # Load event data to extract the pull request number
+    import json
+    with open(event_path, "r") as f:
+        event_data = json.load(f)
+
+    if "pull_request" not in event_data:
+        print("This workflow is not triggered by a pull request.")
+        sys.exit(1)
+
+    pr_number = event_data["pull_request"]["number"]
 
     # Connect to the GitHub API
     g = Github(token)
@@ -38,7 +48,7 @@ def main():
         if file.patch:  # Only files with a patch (diff) are text-based
             if "secret" in file.patch:
                 flagged_files.append(file.filename)
-    
+
     if flagged_files:
         print("The following files contain the word 'secret':")
         for file in flagged_files:
