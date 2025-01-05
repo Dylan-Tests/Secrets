@@ -1,1 +1,2 @@
-test
+bitbucket_client_secret = f9G5W7FZVAZCUshFTTWLL56VFPJmjStv
+bitbucket_client_id = CwRcefsvy7pzxxCHB4
