@@ -1,2 +1,5 @@
 bitbucket_client_secret = f9G5W7FZVAZCUshFTTWLL56VFPJmjStv
 bitbucket_client_id = CwRcefsvy7pzxxCHB4
+telegram_bot_token = 8075345168:AAE0CwtE6E3UTF88tH-Zpdr2ZuuVMwqZyzs
+telegram_bot_token = 8075345168:AAE0CwtE6E3UTF88tH-Zpdr2ZuuVMwqZyz
+telegram_bot_token = 807535168:AAE0CwtE6E3UTF88tH-Zpdr2ZuuVMwqZyzs
