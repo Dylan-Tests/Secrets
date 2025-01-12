@@ -1,2 +1,3 @@
 telegram_bot_token = 8075345168:AAE0CwtE6E3UTF88tH-Zpdr2ZuuVMwqZyzs
 telegram_bot_token = 807568:AAE0CwtE6E3UTFtH-Zpdr2ZuuVMwqZyzs
+bitbucket_server_personal_access_token = 'f9G5W7FfVAZCUsGFTTWLL56V4PJmjStd'
