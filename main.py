@@ -1,3 +1,3 @@
-telegram_bot_token = 8075345168:AAE0CwtE6E3UTF88tH-Zpdr2ZuuVMwqZyzs
-telegram_bot_token = 807568:AAE0CwtE6E3UTFtH-Zpdr2ZuuVMwqZyzs
-bitbucket_server_personal_access_token = 'f9G5W7FfVAZCUsGFTTWLL56V4PJmjStdf9G5W7FfVAZCUsGFTTWLL56V4PJmjStd'
+docker_swarm_token = 'SWMTKN-1-570ycklcezveok2ulkuroqk8y36orp1n3ppauxskkt48obzxy1-dv22l3kmw62i323kvydvul19l'
+docker_swarm_unlock_key = 'SWMKEY-1-+HMvcXfTsWQr154/R2CXn5zg1VRvvpBUzVNQHVlYmig'
+docker_access_token = 'dckr_pat_E1TTZ4YxkjHLcGZMt2Z1-a0hTzE'
