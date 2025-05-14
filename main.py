@@ -1,3 +1,4 @@
-docker_swarm_token = 'SWMTKN-1-570ycklcezveok2ulkuroqk8y36orp1n3ppauxskkt48obzxy1-dv22l3kmw62i323kvydvul19l'
-docker_swarm_unlock_key = 'SWMKEY-1-+HMvcXfTsWQr154/R2CXn5zg1VRvvpBUzVNQHVlYmig'
-docker_access_token = 'dckr_pat_E1TTZ4YxkjHLcGZMt2Z1-a0hTzE'
+LAUNCHDARKLY_ACCESS_TOKEN="api-dd8ce121-cd11-401c-be02-322b7362111d"
+launchdarkly.sdkKey="sdk-b45cb316-505f-4387-915a-e1c9f4cc9d50"
+LAUNCHDARKLY_SDK_KEY='mob-b62092d9-4d44-4fcc-8847-9fba30522210'
+ldMobileKey = "mob-a9903698-759b-48e2-86e1-c551e2b69118"
