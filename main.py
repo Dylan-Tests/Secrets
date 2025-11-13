@@ -388,7 +388,13 @@ sops = "ENC[AES256_GCM,data:D14/CcA3WjY=,iv:GNEtQrDD9C7UDmiu0cluL1oauWsHKGB86304
 # Sourcegraph access token
 sourcegraph_access_token = "sgp_9581f44c386d3e469ff20c3e4eeb47c83342cfa3"
 # Supabase publishable key
-supabase_secret = "sb_publishable_gWvaDFJaT6rU97eVniDYww_uKmzuZ92"
+supabase_publishable_key = "sb_publishable_gWvaDFJaT6rU97eVniDYww_uKmzuZ92"
+# Supabase secret key 
+supabase_secret_key = "sb_secret_fsJtAT-tTMeFCo518tGmp9_naM_Mo3M"
+# Supabase anon key
+supabase_anon_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdoZWppbGdxZXd3bGpydXlqZ3ZkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI5NTMwMTQsImV4cCI6MjA3ODUy4kAxNH0.eDU78tDcuv1PSi-WSncIuW4GLUT_vFM01d3LCtsNDt0"
+# Supabase service role key
+aupabase_service_role = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdoZWppbGdxZXd3bGpydXlqZ3ZkIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2Mjk1MzAxNCwiZXhwIjoyMDc4NTI5MDE0fQ.K7DaKoUYld5fIHdxUMzi9g4t-zDsiXVzqqP4ZqkkOIY"
 # Square access token
 square_access_token = "EAAAFD8ilN11E0Rwp2KpmfJ0ZlkJ8RuWH6JiDbDX_LncpKFmMPFZIsmFBoDkX_CO"
 # Square application id
