@@ -387,6 +387,8 @@ sonarsource_generic_token = "87aa42031546f59a8b34124dfc3878a0cfb7bcdb"
 sops = "ENC[AES256_GCM,data:D14/CcA3WjY=,iv:GNEtQrDD9C7UDmiu0cluL1oauWsHKGB863044AZ+jhQ=,tag:4WQCJHZAIea9ixAHtfK5Gw==,type:str]"
 # Sourcegraph access token
 sourcegraph_access_token = "sgp_9581f44c386d3e469ff20c3e4eeb47c83342cfa3"
+# Supabase publishable key
+supabase_secret = "sb_publishable_gWvaDFJaT6rU97eVniDYww_uKmzuZ92"
 # Square access token
 square_access_token = "EAAAFD8ilN11E0Rwp2KpmfJ0ZlkJ8RuWH6JiDbDX_LncpKFmMPFZIsmFBoDkX_CO"
 # Square application id
