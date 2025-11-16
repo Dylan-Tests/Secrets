@@ -58,6 +58,8 @@ azure_cosmos_db_access_key = "Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y29weXJpZ2h0Y2
 azure_cosmos_db_account_name = "AccountEndpoint=https://test-account.documents.azure.com:443/;AccountKey=<KEY HERE>;"
 # Azure DevOps
 azureDevopsKey = "bkhrzhrdcdhvki4yeddrllzlkxsbkhrthrkceut14236rhnoefua"
+# Azure DevOps pat - as of July 2024
+azureDevopsKey = "GBvhU0L9LCxAwblXKP6nmBoVxPaRmR8GnUNFn8gwcXjuS521NiFxJQQJ99BBACAAAAAbGhqeAAASAZDOcPNf"
 # Azure OpenAI API key
 azure_open_ai_api_key="01fca250a0974584aa75adea9fc83694"
 # Azure service bus access key
