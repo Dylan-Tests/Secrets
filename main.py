@@ -94,7 +94,7 @@ crashlytics_token = "0bb5ea45eb53fa71fa5758290be5a7d5bb867e77"
 databricks_api_token = "dapi1234567890ab1cde2f3ab456c7d89efa"
 # Datadog
 DatadogApiKey= 'cca974287480f57371216e261cf1a483'
-datadogAppkey = "08d6b5db4a6ae4bee0d3d4eb0b27867755f1f331"
+datadogAppkey = "08d6b5db4a6ae4bee0d3d4eb0b27867755f3f331"
 # digitalocean-access-token
 digitalocean_access_token = "doo_v1_46c5a27bf3c685475d92263a3cf0787db6b319e08397216c0e7887c3c26682de"
 # DigitalOcean OAuth token
