@@ -199,6 +199,8 @@ huggingface_access_token = "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"
 instagram_oauth_2 = "45ca23f.16a2c321bf165e23d16e6123a654c1b6"
 # Intercom API token
 intercom_api_token = "dG9rOjRjNTY5NmVmX2E0M2ZlDCFlYl85ZDRmXzEwY2FmYjhjMzA3YjoxOjA="
+# Intra42Client Secret
+Intra42_client_secret = "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"
 # Ionic Personal Access Token
 ionic_personal_access_token = "ion_YfXkouFxPt4X9YfvFmplWIUxo1JW7VVPredK0LHyJx"
 # JDBC Password
