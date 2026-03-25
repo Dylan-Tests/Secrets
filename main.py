@@ -119,6 +119,8 @@ doppler_scim_token = "dp.scim.IcgO4od2ONhDCys8tELOouUK9RSDCevePjks0ymo"
 doppler_service_token = "dp.st.prd.5iSgsylLUh1V8gWGbwbWbO8SHSxs3wkdkYAYE3Ik"
 # Dropbox access token
 dropbox_access_token = "sl.Bia6AMXdKF_m63pGFYe9Yuxgb48UyThPXKPxZaW-6zfqus08ZCcVf8ptT8m61zSk3qi_wMEMADO1J9Eyzz-Z5DaKH7P1yRuTqX6VgStdAzV-OPSzcvFnl1jPilpe69aFmUDXK28"
+# DroneCI api secret
+droneci_token = Ab1Cd2Ef3Gh4Ij5KLm6No7Pq8Rs9Tu0V
 # Dynatrace Access token
 Dynatrace_Access_Token = "x8QhzChmbzDehNH01BMp2"
 # Dynatrace Access token V2
