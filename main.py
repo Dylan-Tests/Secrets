@@ -137,6 +137,8 @@ facebook_access_token = "EAACEdEose0cBABNVIWZAPVEKXBRk4OVdniVZCHpQV1yZAKhKWh4FxE
 fastly_api_token = "Ab1Cd2Ef3Gh4Ij5KLm6No7Pq8Rs9Tu0V"
 # Fireworks API Key
 fireworks_api_key = "pMtfj2GSe1mEKshsZ6rPUAxmc7SUCkSEzdfbtVfwiGyXwjSO"
+# Finnub api key
+finnhub_token = "a1b2c3d4e5f6g7h8i9j0"
 # Fitbit
 fitbit_secret = "5f31848f605305a5a5c41a37314dfc3a"
 # Flickr API key
