@@ -227,6 +227,8 @@ linear_webhook_token = "lin_wh_G7AECxAxMTKLNBWrr6aSwQSLHjMZx6nR8KMktLBhtq67"
 kraken_token = "0zdooqculvf8/mn+chatgivcodanxysp2hd7q4u0v3j3+q67=l/08z49xx96g4h51lylr3fv=05w/7u6"
 # kucoin api key
 kucoin_api_key = "a01341bd249882e856e27bff"
+# kucoin api secret
+kucoin_secret = "8fc8c878-2a2f-c45c-6b4b-dc223d433fe4"
 # Magento
 magento_key = "651sr1ne62enrterg0wrg0rg108r79wg"
 # Mailchimp API key
