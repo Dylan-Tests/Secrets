@@ -120,7 +120,7 @@ doppler_service_token = "dp.st.prd.5iSgsylLUh1V8gWGbwbWbO8SHSxs3wkdkYAYE3Ik"
 # Dropbox access token
 dropbox_access_token = "sl.Bia6AMXdKF_m63pGFYe9Yuxgb48UyThPXKPxZaW-6zfqus08ZCcVf8ptT8m61zSk3qi_wMEMADO1J9Eyzz-Z5DaKH7P1yRuTqX6VgStdAzV-OPSzcvFnl1jPilpe69aFmUDXK28"
 # DroneCI api secret
-droneci_token = Ab1Cd2Ef3Gh4Ij5KLm6No7Pq8Rs9Tu0V
+droneci_token = "Ab1Cd2Ef3Gh4Ij5KLm6No7Pq8Rs9Tu0V"
 # Dynatrace Access token
 Dynatrace_Access_Token = "x8QhzChmbzDehNH01BMp2"
 # Dynatrace Access token V2
@@ -134,7 +134,7 @@ facebook_oauth_id = "1077065123111237"
 # Facebook Access Token
 facebook_access_token = "EAACEdEose0cBABNVIWZAPVEKXBRk4OVdniVZCHpQV1yZAKhKWh4FxEGo4C3HOQVCW47Ks0z0zdTn96yxqVux2Sv045dh6ZC9R8CpriRfwppGZAltRaGaiyk1Ucr0hdc7DUNAIaSGv9U5ZBHh1u3gb9k3a1tv8OyrPTyQpcStN1Drz24sAXOgZB5PdWSSEoYQAseseVGt4IyFgZDZD"
 # Fastly api token
-fastly_api_token = Ab1Cd2Ef3Gh4Ij5KLm6No7Pq8Rs9Tu0V
+fastly_api_token = "Ab1Cd2Ef3Gh4Ij5KLm6No7Pq8Rs9Tu0V"
 # Fireworks API Key
 fireworks_api_key = "pMtfj2GSe1mEKshsZ6rPUAxmc7SUCkSEzdfbtVfwiGyXwjSO"
 # Fitbit
