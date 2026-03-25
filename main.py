@@ -163,6 +163,8 @@ gitlab_personal_access_token = "glpat-5E24C20C01ad5789b_Dv"
 gitlab_pipeline_trigger_token = "glptt-9440d03716e5263115e84b7ac62f30e70dad6653"
 # gitlab_runner_auth_token
 gitlab_runner_auth_token = "glrt-1unZyecXQlbB6XcVy2ws"
+# Gitter access token
+gitter_token = "a1b2c3d42e5f6a7b-9d0e1f2a3b4c5d6e7f8a9b0"
 # GoCardless API token
 go_cardless_api_token = "live_ODk5MzE4IiwibiI6InR0LWYiLCJrIjoia04zM0h5"
 # Google API key
