@@ -133,6 +133,8 @@ facebook_oauth = "cafebab467ed9873eefabcdef0123789"
 facebook_oauth_id = "1077065123111237"
 # Facebook Access Token
 facebook_access_token = "EAACEdEose0cBABNVIWZAPVEKXBRk4OVdniVZCHpQV1yZAKhKWh4FxEGo4C3HOQVCW47Ks0z0zdTn96yxqVux2Sv045dh6ZC9R8CpriRfwppGZAltRaGaiyk1Ucr0hdc7DUNAIaSGv9U5ZBHh1u3gb9k3a1tv8OyrPTyQpcStN1Drz24sAXOgZB5PdWSSEoYQAseseVGt4IyFgZDZD"
+# Fastly api token
+fastly_api_token = Ab1Cd2Ef3Gh4Ij5KLm6No7Pq8Rs9Tu0V
 # Fireworks API Key
 fireworks_api_key = "pMtfj2GSe1mEKshsZ6rPUAxmc7SUCkSEzdfbtVfwiGyXwjSO"
 # Fitbit
