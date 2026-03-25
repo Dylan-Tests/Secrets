@@ -145,6 +145,8 @@ fitbit_secret = "5f31848f605305a5a5c41a37314dfc3a"
 flickr_api_key = "92026ec47dec235cd07da78305a4da89"
 # Foursquare secret key
 foursquare_secret_key = "R_4561abc567890123abceab90123456"
+# FrameIo Developer token
+token = "fio-u-Ab1Cd2Ef3Gh4Ij5KLm6No7Pq8Rs9Tu0Vw1Xy2Za3Bc4De5Fg6Hh7Ij8Kl9Mn0Opq"
 # Fullstory API Key
 fullstory_api_key = "na1.by0yMUdUQTUtbmExL2R5bGFueWFpckBnbWFpbC5jb2069YVPNuegUOJy5f2SEmAEgYJnHvWTX2ybGNdbSMchT3ou/YSZP8MY"
 # Github PAT
