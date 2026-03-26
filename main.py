@@ -97,6 +97,10 @@ databricks_api_token = "dapi1234567890ab1cde2f3ab456c7d89efa"
 # Datadog
 DatadogApiKey= 'cca974287480f57371216e261cf1a483'
 datadogAppkey = "08d6b5db4a6ae4bee0d3d4eb0b27867755f3f331"
+# DiscordWebhook
+DISCORD_WEBHOOK = "https://discord.com/api/webhooks/123456789012345678/ABCDEFghijklmnopqrstuvwxyz0123456789ABCDEFghijklmnopqrstuvwxyz0123456"
+# DiscordWebhook
+DISCORD_WEBHOOK= "https://discordapp.com/api/webhooks/123456789012345678/ABCDEFghijklmnopqrstuvwxyz0123456789ABCDEFghijklmnopqrstuvwxyz0123456"
 # digitalocean-access-token
 digitalocean_access_token = "doo_v1_46c5a27bf3c685475d92263a3cf0787db6b319e08397216c0e7887c3c26682de"
 # DigitalOcean OAuth token
@@ -145,6 +149,16 @@ finnhub_token = "a1b2c3d4e5f6g7h8i9j0"
 fitbit_secret = "5f31848f605305a5a5c41a37314dfc3a"
 # Flickr API key
 flickr_api_key = "92026ec47dec235cd07da78305a4da89"
+# FlyIoAccessToken
+FLY_TOKEN = "fo1_v4VugzUf_MxthRMjMscJOCl9KK2j7xEqOYFLjy0FSbk"
+# FlutterwaveSecretKey
+FLUTTERWAVE_SECRET= "FLWSECK-e6db11d1f8a6208de8cb2f94e293450e-X"
+# FlutterwaveSecretKey
+FLUTTERWAVE_SECRET= "FLWSECK_TEST-e6db11d1f8a6208de8cb2f94e293450e-X"
+# FlutterwaveEncryptionKey
+FLUTTERWAVE_ENC_KEY= "FLWSECK_a1b2c3d4e5f6a7b8"
+# FlutterwavePublicKey
+FLUTTERWAVE_PUBLIC= "FLWPUBK-e6db11d1f8a6208de8cb2f94e293450e-X"
 # Foursquare secret key
 foursquare_secret_key = "R_4561abc567890123abceab90123456"
 # FrameIo Developer token
@@ -225,6 +239,8 @@ linear_oauth_token = "lin_oauth_2dd347b77fc365396c1042b2fac97e5c2a702b2fb906aa81
 linear_signing_secret = "3e144baf2ba80d4b44967ea499cf9ac2"
 # Linear Webhook Token
 linear_webhook_token = "lin_wh_G7AECxAxMTKLNBWrr6aSwQSLHjMZx6nR8KMktLBhtq67"
+# LobApiKey
+LOB_API_KEY = "test_5f0e52cbf78b6b4dabe3a7b38f459c35f9e"
 # kraken API private key
 kraken_token = "0zdooqculvf8/mn+chatgivcodanxysp2hd7q4u0v3j3+q67=l/08z49xx96g4h51lylr3fv=05w/7u6"
 # kucoin api key
@@ -428,6 +444,10 @@ snyk_api_key = "bd832f91-a742-49e9-bc1e-411e0c8743ea"
 sonarsource_generic_token = "87aa42031546f59a8b34124dfc3878a0cfb7bcdb"
 # SOPS encrypted
 sops = "ENC[AES256_GCM,data:D14/CcA3WjY=,iv:GNEtQrDD9C7UDmiu0cluL1oauWsHKGB863044AZ+jhQ=,tag:4WQCJHZAIea9ixAHtfK5Gw==,type:str]"
+# SumoLogicAccessId
+sumoLogic_access_id = "suA1b2C3d4E5f6"
+# SumoLogicAccessKey
+sumoLogic_access_key = "A1b2C3d4E5f6G7h8I9j0K1l2M3n4O5p6Q7r8S9t0U1v2W3x4Y5z6A7b8C9d0E1f2"
 # Sourcegraph access token
 sourcegraph_access_token = "sgp_9581f44c386d3e469ff20c3e4eeb47c83342cfa3"
 # Supabase publishable key
