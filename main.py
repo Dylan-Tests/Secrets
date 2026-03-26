@@ -72,6 +72,8 @@ azure_storage_account_name = "https://test8bdfbl169-secondary.z50.web.core.windo
 azure_subscription_key = '65dae5acc8508967f4f09968643e29cf'
 # Bcrypt
 "INSERT INTO users (id, name, password) VALUES (1, 'Admin', 'bcrypt_sha256$$2b$12$K1X.lgy44sCrbsksXNgFo.mSHGMCYOo1n9PGJQkqMLPXQ/07uSypy"
+# BeamerApiKey
+BEAMER_API_KEY = "b_lw=/afiwoy7m-2=urprdkhplfussqvgi5fjv/cmy2s-h"
 # Bitbucket client secret
 bitbucket_client_secret = "f9G5W7FfVAZCUsGFTTWLL56V4PJmjStd"
 # Bitbucket client id
@@ -239,8 +241,12 @@ mailgun_private_api_token = "key-816a9012e32ad5FGT7293dS176b45d57"
 mapbox_api_token = "pk.eyJ1IjoiaGlqaWFuZ3RhbyIsImEiOiJjampxcjFnb3E2NTB5M3BvM253ZHV5YjhjIn0.WneUon5qFigfJRJ3oaZ3Ow"
 # Max mind licensekey
 MaxMind_licensekey = "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"
-# 
-Microsoft_Entra_Client_Secret = Iwx.Q~jVFH-z8UiyuLrCpsVSGtByskmnmB8EDcVS
+# matternmost token
+mattermost_token = "fjlof7vquijofaqnciyfoxjgey"
+# Microsoft_Entra_Client_Secret
+Microsoft_Entra_Client_Secret = "Iwx.Q~jVFH-z8UiyuLrCpsVSGtByskmnmB8EDcVS"
+# MerakiApiKey
+meraki_api_key = "24ee9f49b0ffd468cd6cea061aeb4dc56b4da1a2"
 # mParticle API key
 mparticle_api_key = "us1-1ac2b4a93df13e4ec11836503df34c55"
 # mParticle API secret
@@ -253,6 +259,8 @@ new_relic_apm_license_key = "53ceacef994ac24313889e0a3dcb924dFFFFNRAL"
 new_relic_application_token = "AA35a41565b354f646e523ed61c654f321469870a2"
 # New Relic Secret
 new_relic_secret = "NRAK-YG8Z45MCUC8JLOZSBAZDAD7E3PV"
+# NetlifyPersonalAccessToken
+netlify_token = "cwfz3_kfof6i4wcjahpw4o3m09f4zlz=c7mj4n_a"
 # npm access token
 npm_access_token = "npm_JTOGRV1imLWefpi4eHVtneDmJ51anA4H3jAj"
 # Office365 OAuth client ID
@@ -362,6 +370,8 @@ postman_collection_access_key = "PMAT-01GKSWRD0CFS3M3SB5WYH2NKA7"
 pubnub_secret_key = "sec-c-1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789012"
 # PyPI upload token
 pypi_upload_token = "pypi-AgEIcHlwaS5vcmcCJDhmYTNhZDI3LTVlMDgtNDM3Mi1hMTRhLTU0OWQzNmU1OWI1YwACKlszLCIwODAxOGIxNy03Y2ZlLTQwMDktOTRhZC1iNzM2M2FlMDc0M2EiXQAABiAzqOE4WXxBGDNleANVrOBbWKIgVgpyRNc1U9rXe7wm7A"
+# PrefectApiKey
+prefect_key = "pnu_473ax9mdi5larwiwk7k16turpxdh5kuyir0u"
 # RapidAPI API key
 rapidapi_api_key = "62dfadc327mshb9b3e7916775df3p175713jsne9f3a1b7841e"
 # RSA private key
@@ -374,6 +384,8 @@ lIRGiCucSn61F/sFCaD2BEZOYhEM8ZECIEBtthh+DmA857FzVZZjgB+mnf/haLp9
 inC/NoF5q2x3AiEAvUrIJBMjkNPGlwiBTM9T2OEs+NMBi5K0IOoBYcsz5kECIFDz
 XMQMHF4RJu4+V+zTilMTnRUZwreGXT6XGP3+MZmV
 -----END RSA PRIVATE KEY-----"""
+# ReadMeApiKey
+readme_key = "rdme_jg7f8khrj7igpt1narqzfgk7sgw8ah1cfy4il3m3gpgxyd8k8zwvzcqbxrl059jo1ls3hj"
 # Rubygem API token
 rubygem_api_token = "rubygems_b9ce70c306b3a2e248679fbbbd66722d408d3c8c4f00566c"
 # Salesforce access token
@@ -404,6 +416,10 @@ slack_bot_token = "xoxb-3389729784-3897297955873-38AB97A297wQADECk3897AA5"
 slack_user_token = "xoxp-48414020613-856253091040-1005986586851-335582d571b590564a0181469e6e0113"
 # Slack Webhook
 slack_webhook = "https://hooks.slack.com/services/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"
+# SendbirdApplicationId
+sendbird_app_id = "d26c259b-58dc-b958-7aaa-97d5c453fa11"
+# SendinblueApiKey
+sendinblue_key = "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"
 # Snowflake password
 snowflake_password = "B95267B8-7667-4505-94B0-945afa0469da"
 # Snyk API Key
@@ -460,6 +476,8 @@ GzoB+04TWugjm6o065XlxLjMxTcD0TChAvnHThuOy5KnjJztx7ilrEL5GJNZTx/5KFAAAA
 QQDQ4oT3KztZDlFbDxIrOjMkq0LL52L8BofUegYAfvaumjFHLpOe4789DOp9dXfMMX3S6R
 V5IjV+v5lLf3nH/EhzAAAAGWFjdGUtdGVjaG5vbG9neS1nZW5lcmF0ZWQB
 -----END OPENSSH PRIVATE KEY-----"""
+# SquarespaceAccessToken
+squarespace_token = "c5a720ae-aafa-0064-628a-d7b7db2cc2ce"
 # Stripe restricted API key
 stripe_restricted_apikey = "rk_live_123976025916342412341234"
 # Stripe standard API key
@@ -474,6 +492,8 @@ telegram_bot_token = "807934858:AAE0CwtERE3UTF888A-Zpdr2ZutVMwqZyz2"
 trackingmore_api_key = "4826z7q0-dq0s-tg5w-539n-rd0od0ub3nvi"
 # Travis CI access token
 travis_ci_access_token = "WKto9_eZf3lNw28shUfaZC"
+# TwitchApiToken
+twitch_token = "3eueu0fz1vuhjqhwzml8mfjr01ew15"
 # Twilio API Key
 twilio_api_key = "SKd9e3f51d47453ac2a4f0175ede1c3367"
 # Twitter OAuth
