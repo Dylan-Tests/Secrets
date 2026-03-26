@@ -237,6 +237,8 @@ mailchimp_api_key = "fa76440a1111116b52b2f88340cbd29e-us10"
 mailgun_private_api_token = "key-816a9012e32ad5FGT7293dS176b45d57"
 # Mapbox API token
 mapbox_api_token = "pk.eyJ1IjoiaGlqaWFuZ3RhbyIsImEiOiJjampxcjFnb3E2NTB5M3BvM253ZHV5YjhjIn0.WneUon5qFigfJRJ3oaZ3Ow"
+# Max mind licensekey
+MaxMind_licensekey = "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"
 # 
 Microsoft_Entra_Client_Secret = Iwx.Q~jVFH-z8UiyuLrCpsVSGtByskmnmB8EDcVS
 # mParticle API key
