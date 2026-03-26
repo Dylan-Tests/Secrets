@@ -181,6 +181,20 @@ gitlab_personal_access_token = "glpat-5E24C20C01ad5789b_Dv"
 gitlab_pipeline_trigger_token = "glptt-9440d03716e5263115e84b7ac62f30e70dad6653"
 # gitlab_runner_auth_token
 gitlab_runner_auth_token = "glrt-1unZyecXQlbB6XcVy2ws"
+# GitlabDeployToken
+gitlab_deploy_token= "gldt-Ab3d5E7g9Kl1Mn3pQr5t"
+# GitlabFeedToken
+gitlab_feed_token= "glft-Xb2d4F6h8Jl0Nn2pRr4t"
+# GitlabScimToken
+gitlab_scim_token= "glsoat-Yc3e5G7i9Km10o3qSs5u"
+# GitlabFeatureFlagClientToken
+gitlab_feature_flag_client_token= "glfct-Zd4f6H8j0Ln2Pp4rTt6v"
+# GitlabKubernetesAgentToken
+gitlab_kubernetes_agent_token= "glagent-We3f5G7i9Km10o3qSs5u"
+# GitlabIncomingMailToken
+gitlab_incoming_mail_token= "glimt-Vd4f6H8j0Ln2Pp4rTt6v"
+# GitlabCicdJobToken
+gitlab_cicd_job_token= "glcbt-64_Ab3d5E7g9Kl1Mn3pQr5t"
 # Gitter access token
 gitter_token = "a1b2c3d42e5f6a7b-9d0e1f2a3b4c5d6e7f8a9b0"
 # GoCardless API token
