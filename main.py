@@ -159,6 +159,8 @@ FLUTTERWAVE_SECRET= "FLWSECK_TEST-e6db11d1f8a6208de8cb2f94e293450e-X"
 FLUTTERWAVE_ENC_KEY= "FLWSECK_a1b2c3d4e5f6a7b8"
 # FlutterwavePublicKey
 FLUTTERWAVE_PUBLIC= "FLWPUBK-e6db11d1f8a6208de8cb2f94e293450e-X"
+# FlutterwavePublicKey
+FLUTTERWAVE_PUBLIC= "FLWPUBK_TEST-32193bba8dab84e3d9c4525c85ea7a12-X"
 # Foursquare secret key
 foursquare_secret_key = "R_4561abc567890123abceab90123456"
 # FrameIo Developer token
