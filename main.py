@@ -257,6 +257,7 @@ linear_signing_secret = "3e144baf2ba80d4b44967ea499cf9ac2"
 linear_webhook_token = "lin_wh_G7AECxAxMTKLNBWrr6aSwQSLHjMZx6nR8KMktLBhtq67"
 # LobApiKey
 LOB_API_KEY = "test_5f0e52cbf78b6b4dabe3a7b38f459c35f9e"
+LOB_API_KEY= "live_8e1a42cbf78b6b4dabe3a7b38f459c35f9e"
 # kraken API private key
 kraken_token = "0zdooqculvf8/mn+chatgivcodanxysp2hd7q4u0v3j3+q67=l/08z49xx96g4h51lylr3fv=05w/7u6"
 # kucoin api key
