@@ -62,6 +62,8 @@ azureDevopsKey = "bkhrzhrdcdhvki4yeddrllzlkxsbkhrthrkceut14236rhnoefua"
 azureDevopsKeyUpdated = "GBvhU0L9LCxAwblXKP6nmBoVxPaRmR8GnUNFn8gwcXjuS521NiFxJQQJ99BBACAAAAAbGhqeAAASAZDOcPNf"
 # Azure OpenAI API key
 azure_open_ai_api_key="01fca250a0974584aa75adea9fc83694"
+# Azure SAS
+azure_sas = "sv=2020-08-04&st=2021-11-17T05%3A53%3A09Z&se=2025-12-31T05%3A53%3A00Z&sr=c&sp=racwdxlt&sig=aB1cD2eF3gH4iJ5kL6mN7oP8qR9sT0uV1wX2yZ3abcd%3D"
 # Azure service bus access key
 azure_service_bus_access_key = "Endpoint=sb://servicebus-namespace.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=ZKBm4NyDGbGVahD1K/jq90Vo5W79FlC8QtJDUdVLuE5=;EntityPath=demo-topic;"
 # Azure storage access key
