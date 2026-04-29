@@ -558,4 +558,5 @@ zendesk_api_token = "upR55Gs7abCX3fH5yCe42627utuMwgkMSBGHOw14"
 # Zendesk client ID
 zendesk_client_id = "test@gmail.com"
 
-password = "hgduiuh8we6f21"
+password = "hgduiuhkj6vc3#8we6f21"
+SECRET_KEY= "aB3kL9mNpQ2rS5tU8wX1yZ4vC7fG0hJkLm9"
