@@ -1,5 +1,5 @@
 
-
+{
 	"KeyVault": {
 	
 	"Uri": "https://seedpgaskvdev.vault.azure.net/",
@@ -8,4 +8,4 @@
 	
 	"ClientSecret": "5q@CO13fpABa6xpXpTjw]DElSr]GueX?"
 
-	}
+}
