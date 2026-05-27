@@ -431,6 +431,8 @@ salesforce_client_secret = "347883A6C1373D646CAE934528165621165339354883A6C137D6
 salesforce_client_id = "3MVG9CEn_O3jvv0yRMQezJ8PwesiIknRU9v9j778rv78UvJ2pPeOvw.QduxyMxYaldoNEhO0eVvw4ogCT58c5"
 # Salesforce refresh token
 salesforce_refresh_token = "5Aep861ARUdJp8j3X36_jKdhoQp8ma26ieHKwW8JYjTK2BDPOOKxsV_3lDwKwTzBz2pGXcuHtmd.D7ZISnDg_AD"
+# samsara api token
+FLEET_MGMT_KEY = "Bearer samsara_api_Y0ocz0vc2qv1ABKlcQgPIcBr3qkj1Y"
 # Sendgrid API token
 sendgrid_api_token = "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"
 # Sentry organization token
@@ -535,6 +537,8 @@ travis_ci_access_token = "WKto9_eZf3lNw28shUfaZC"
 twitch_token = "3eueu0fz1vuhjqhwzml8mfjr01ew15"
 # Twilio API Key
 twilio_api_key = "SKd9e3f51d47453ac2a4f0175ede1c3367"
+# TWILIO_ACCOUNT_SID
+TWILIO_ACCOUNT_SID= "AC1234567890abcdef1234567890abcdef"
 # Twitter OAuth
 twitter_oauth = "g3w8e4g64ERT8HJ536HJTERRJYTWE64843YT4843G"
 # Twitter access token
