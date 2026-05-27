@@ -538,7 +538,7 @@ twitch_token = "3eueu0fz1vuhjqhwzml8mfjr01ew15"
 # Twilio API Key
 twilio_api_key = "SKd9e3f51d47453ac2a4f0175ede1c3367"
 # TWILIO_ACCOUNT_SID
-TWILIO_ACCOUNT_SID= "AC1234567890abcdef1234567890abcdef"
+TWILIO_ACCOUNT_SID= "ACdeadbeefcafebabe0123456789abcdef"
 # Twitter OAuth
 twitter_oauth = "g3w8e4g64ERT8HJ536HJTERRJYTWE64843YT4843G"
 # Twitter access token
