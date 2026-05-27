@@ -11,5 +11,7 @@
 	"client_email": "shalev@enrollmentdatavalidation.iam.gserviceaccount.com",
 	
 	"client_id": "221187611854252785716",
+
+	"auth_uri": "https://accounts.google.com/o/oauth2/auth"
 	
 }
