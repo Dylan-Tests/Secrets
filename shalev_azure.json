@@ -1,6 +1,4 @@
 {
-
-
   "KeyVault": {
   
   "Uri": "https://seedpgaskvdev.vault.azure.net/",
@@ -8,5 +6,4 @@
   "ClientId": "9fd9da61-1122-9045-98db-2251ce78c708",
   
   "ClientSecret": "6q@OCzAxSPO9Ga2XAsjw]DElSr=GqeX?"
-
 }
